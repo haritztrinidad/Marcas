@@ -1,2 +1,2 @@
-# Marcas
+# Marca
 celulares
